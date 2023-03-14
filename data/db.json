@@ -1,0 +1,108 @@
+{
+  "headerbanner": [
+    {
+      "id": 1,
+      "title": "Nike Zoom KD 12",
+      "price": 47.7,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg",
+      "description": "The Nike superRep Go combines comfortable foam cushioning, flexibility and support to get you moving in circuit-based fitness classes or while streaming workouts at home."
+    }
+  ],
+
+  "footerbanner": [
+    {
+      "id": 1,
+      "title": "Nike MAG PRO",
+      "price": 79.9,
+      "image": "https://res.cloudinary.com/amradham/image/upload/v1658303497/ecommerce/orange_arqgbz.png",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
+    }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "title": "Nike Air Jordan",
+      "price": 199.9,
+      "image": "https://res.cloudinary.com/amradham/image/upload/v1658303485/ecommerce/nike3_plfhr3.png",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
+    },
+    {
+      "id": 2,
+      "title": "Nike Air Max Lw",
+      "price": 139.9,
+      "image": "https://res.cloudinary.com/amradham/image/upload/v1658303494/ecommerce/nike2_xyfxcj.png",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
+    },
+    {
+      "id": 3,
+      "title": "Nike MAG PRO",
+      "price": 219.9,
+      "image": "https://res.cloudinary.com/amradham/image/upload/v1658303497/ecommerce/orange_arqgbz.png",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
+    },
+    {
+      "id": 4,
+      "title": "Nike Lunar Boa",
+      "price": 139.9,
+      "image": "https://res.cloudinary.com/amradham/image/upload/v1658303483/ecommerce/women2_qxcuqb.png",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
+    },
+    {
+      "id": 5,
+      "title": "Nike Sb Blazer",
+      "price": 219.9,
+      "image": "https://res.cloudinary.com/amradham/image/upload/v1658303485/ecommerce/new2_n8jqfd.png",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
+    },
+    {
+      "id": 6,
+      "title": "Nike Free Rn",
+      "price": 179.9,
+      "image": "https://res.cloudinary.com/amradham/image/upload/v1658303485/ecommerce/nike6_gzi2oc.png",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
+    },
+    {
+      "id": 7,
+      "title": "Nike Zoom Hc",
+      "price": 209.9,
+      "image": "https://res.cloudinary.com/amradham/image/upload/v1658303484/ecommerce/women4_tplocp.png",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
+    },
+    {
+      "id": 8,
+      "title": "Nike Flyknit",
+      "price": 115.9,
+      "image": "https://res.cloudinary.com/amradham/image/upload/v1658303483/ecommerce/new5_l2lkb6.png",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
+    },
+    {
+      "id": 9,
+      "title": "Nike Dunk Low",
+      "price": 134.9,
+      "image": "https://res.cloudinary.com/amradham/image/upload/v1658303484/ecommerce/women3_tv3ooh.png",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
+    },
+    {
+      "id": 10,
+      "title": "Nike Zoom Kd 9",
+      "price": 210.9,
+      "image": "https://res.cloudinary.com/amradham/image/upload/v1658303485/ecommerce/new3_gldheu.png",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
+    },
+    {
+      "id": 11,
+      "title": "Nike Kd Trey 5",
+      "price": 140.9,
+      "image": "https://res.cloudinary.com/amradham/image/upload/v1658303484/ecommerce/women1_i1ejyj.png",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
+    },
+    {
+      "id": 12,
+      "title": "Nike Supercr7",
+      "price": 139.9,
+      "image": "https://res.cloudinary.com/amradham/image/upload/v1658303486/ecommerce/new4_a2ghqh.png",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
+    }
+  ]
+}
