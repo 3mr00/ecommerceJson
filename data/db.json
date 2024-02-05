@@ -140,5 +140,7 @@
       "quantity": 1
     }
   ],
-  "totalpages" : "9"
+  "totalpages" : {
+    "number" :9,
+  }
 }
